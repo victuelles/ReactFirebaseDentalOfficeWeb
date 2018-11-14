@@ -26,7 +26,7 @@ const Landing = () =>
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <i className="fas fa-circle fa-stack-2x text-primary"></i>
-              <i className="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+              <i className="fas fa-child fa-stack-1x fa-inverse"></i>
             </span>
             <h4 className="service-heading">Pediatric Dentistry</h4>
             <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
@@ -34,15 +34,15 @@ const Landing = () =>
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <i className="fas fa-circle fa-stack-2x text-primary"></i>
-              <i className="fas fa-laptop fa-stack-1x fa-inverse"></i>
+              <i className="fas fa-smile fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 className="service-heading">Pestorative/Cosmetic</h4>
+            <h4 className="service-heading">Restorative/Cosmetic</h4>
             <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div className="col-md-4">
             <span className="fa-stack fa-4x">
               <i className="fas fa-circle fa-stack-2x text-primary"></i>
-              <i className="fas fa-lock fa-stack-1x fa-inverse"></i>
+              <i className="fas fa-tooth fa-stack-1x fa-inverse"></i>
             </span>
             <h4 className="service-heading">Extraction</h4>
             <p className="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
@@ -103,7 +103,7 @@ const Landing = () =>
               
               <li className="timeline-inverted">
                 <div className="timeline-image">
-                  <h4>Be Part
+                  <h4>Present
                     <br/>Of US
                     <br/>!</h4>
                 </div>
