@@ -7,7 +7,7 @@ const Landing = () =>
         <div className="intro-text">
         <div className="intro-lead-in text-uppercase  "></div>
           <div className="intro-lead-in ">WELCOME! </div>
-          <div className="intro-lead-in">"Don't let absence of pain be your guide to oral wellness"</div>
+          <div className="intro-lead-in">"Don't let pain or absence of it, be your guide to your oral wellness"</div>
           <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
         </div>
       </div>
@@ -103,9 +103,9 @@ const Landing = () =>
               
               <li className="timeline-inverted">
                 <div className="timeline-image">
-                  <h4>Present
-                    <br/>Of US
-                    <br/>!</h4>
+                  <h4>Be part of
+                    <br/>our growing
+                    <br/>clients!</h4>
                 </div>
               </li>
             </ul>
@@ -175,8 +175,8 @@ const Landing = () =>
           <div className="col-sm-4">
             <div className="team-member">
               <img className="mx-auto rounded-circle" src="img/team/person_placeholder.jpg" alt=""/>
-              <h4>Peter Puno, DDS</h4>
-              <p className="text-muted">Dentist</p>
+              <h4>Arlene C. Fernandez</h4>
+              <p className="text-muted">Dental Hygienist</p>
               <ul className="list-inline social-buttons">
                 <li className="list-inline-item">
                   <a href="#">
@@ -206,34 +206,6 @@ const Landing = () =>
     </section>
 
   
-    <section className="py-5">
-      <div className="container">
-        <div className="row">
-          <div className="col-md-3 col-sm-6">
-            <a href="#">
-              <img className="img-fluid d-block mx-auto" src="img/logos/envato.jpg" alt=""/>
-            </a>
-          </div>
-          <div className="col-md-3 col-sm-6">
-            <a href="#">
-              <img className="img-fluid d-block mx-auto" src="img/logos/designmodo.jpg" alt=""/>
-            </a>
-          </div>
-          <div className="col-md-3 col-sm-6">
-            <a href="#">
-              <img className="img-fluid d-block mx-auto" src="img/logos/themeforest.jpg" alt=""/>
-            </a>
-          </div>
-          <div className="col-md-3 col-sm-6">
-            <a href="#">
-              <img className="img-fluid d-block mx-auto" src="img/logos/creative-market.jpg" alt=""/>
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
     <section id="contact">
       <div className="container">
         <div className="row">
