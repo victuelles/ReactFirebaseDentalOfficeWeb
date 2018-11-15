@@ -104,7 +104,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color:rgba(0,0,0,0.5);
+  background-color:rgba(95,158,160 ,.8 );
 }
 
 #mainNav .navbar-toggler {
@@ -137,9 +137,10 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #10a39a;
+  color: #e7512b;
   text-decoration: none;
   font-weight: bold;
+  font-size: 0.95em;
 }
 .navbar-brand {
   margin-right:0;
@@ -166,7 +167,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color:rgba(95,158,160 ,.8 )
+    background-color:rgba(95,158,160 ,.7 )
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
