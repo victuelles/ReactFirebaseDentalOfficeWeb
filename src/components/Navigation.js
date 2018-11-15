@@ -61,7 +61,9 @@ class Navigation extends Component {
               <NavItem>
                 <NavLink href="#team" onClick={this.toggle}>Team</NavLink>
               </NavItem>
-              
+              <NavItem>
+                <NavLink href="#maps" onClick={this.toggle}>Directions</NavLink>
+              </NavItem>
               <NavItem>
                 <NavLink href="#contact" onClick={this.toggle}>Contact</NavLink>
               </NavItem>
@@ -74,6 +76,4 @@ class Navigation extends Component {
   }
 }
  
-
-
 export default Navigation

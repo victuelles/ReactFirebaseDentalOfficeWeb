@@ -1,14 +1,15 @@
 import React from 'react';
+import Iframe from 'react-iframe'
 
 const Landing = () => 
 <React.Fragment>
     <header className="masthead">
       <div className="container">
         <div className="intro-text">
-        <div className="intro-lead-in text-uppercase  "></div>
-          <div className="intro-lead-in ">WELCOME! </div>
           <div className="intro-lead-in">"Don't let pain or absence of it, be your guide to your oral wellness"</div>
-          <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
+          <div className="section-heading text-uppercase " style={{color:"orange"}}>We speak <b>Tagalog, Ilocano, Pangasinan</b>. <b>Se Habla Espanol!</b></div>
+          <br/>
+          <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">UNDER CONSTRUCTION.... WILL BE UP SOON</a>
         </div>
       </div>
     </header>
@@ -17,7 +18,7 @@ const Landing = () =>
         <div className="row">
           <div className="col-lg-12 text-center">
             <h2 className="section-heading text-uppercase">Services</h2>
-            <h3 className="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 className="section-subheading text-muted">We are conveniently located located at the heart of Newark and serving areas of Union City, Fremont, Milpitas, Hayward, San Leandro and Castro valley.</h3>
           </div>
         </div>
         <div className="row text-center">
@@ -223,10 +224,6 @@ const Landing = () =>
               <p className="text-muted">United Healthcare Dental PPO</p>
             </div>
         </li>
-
-
-
-        
       </ul>
     </div>
   </div>
@@ -327,8 +324,28 @@ const Landing = () =>
         </div>
       </div>
     </section>
-
-  
+        <section id="maps">
+        <div className="container">
+        <div className="row">
+            <div className="col-lg-12 text-center">
+            <h2 className="section-heading text-uppercase">Location Map</h2>
+            <h3 className="section-subheading text-muted">Get directions to this location</h3>
+            </div>
+        </div>
+          <div className="row">
+          <div className="col-lg-12 text-center">
+            <Iframe url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3163.227441179206!2d-122.0491244!3d37.5497049!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x780f696268c64924!2sRosemont+Family+Dental+Care!5e0!3m2!1sen!2sus!4v1542309339738"
+                width="600px"
+                height="450px"
+                id="myId"
+                className="myClassname"
+                display="initial"
+                position="relative"
+                allowFullScreen/>
+            </div>
+       </div>
+      </div>
+    </section>
     <section id="contact">
       <div className="container">
         <div className="row">
@@ -374,8 +391,6 @@ const Landing = () =>
         </div>
       </div>
     </section>
-
     </React.Fragment>
-
  
 export default Landing;
