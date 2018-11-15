@@ -56,8 +56,12 @@ class Navigation extends Component {
                 <NavLink href="#about" onClick={this.toggle}>About</NavLink>
               </NavItem>
               <NavItem>
+                <NavLink href="#insurances" onClick={this.toggle}>Insurances</NavLink>
+              </NavItem>
+              <NavItem>
                 <NavLink href="#team" onClick={this.toggle}>Team</NavLink>
               </NavItem>
+              
               <NavItem>
                 <NavLink href="#contact" onClick={this.toggle}>Contact</NavLink>
               </NavItem>
