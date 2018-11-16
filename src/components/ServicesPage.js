@@ -6,7 +6,7 @@ const ServicesPage=()=>
   <div className="row">
     <div className="col-lg-12 text-center">
       <h2 className="section-heading text-uppercase">Services</h2>
-      <h3 className="section-subheading text-muted">We are conveniently located located at the heart of Newark and serving areas of Union City, Fremont, Milpitas, Hayward, San Leandro and Castro valley.</h3>
+      <h3 className="section-subheading text-muted">We are conveniently located at the heart of Newark and serving areas of Union City, Fremont, Milpitas, Hayward, San Leandro and Castro Valley for 30 years with quality dentistry.</h3>
     </div>
   </div>
   <div className="row text-center">

@@ -13,9 +13,10 @@ const Landing = () =>
           <div className="intro-lead-in">"Don't let pain or absence of it, be your guide to your oral wellness"</div>
           
           <br/>
-          <a className="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Learn more</a>
+          <a className="btn btn-danger btn-xl text-uppercase js-scroll-trigger red" href="tel:+15107963411">Call Now!</a>
+        
           <br/>  <br/>  <br/>
-          <div className="section-heading text-uppercase " style={{color:"navy",fontSize:'1.2em'}}>We speak <b>Tagalog, Ilocano, Pangasinan</b>.<p><b> Se Habla Espanol!</b></p></div>
+          <div className="section-heading text-uppercase " style={{color:"navy",fontSize:'1.2em'}}>We speak <b>English, Tagalog, Ilocano, Pangasinan</b>.<p><b> Se Habla Espanol!</b></p></div>
         </div>
       </div>
     </header>

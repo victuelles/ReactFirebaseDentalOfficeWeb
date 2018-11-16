@@ -85,9 +85,10 @@ const TeamPage=()=>
   </div>
   <div className="row">
     <div className="col-lg-8 mx-auto text-center">
-       <img className="mx-auto rounded-circle" src="img/team/group_placeholder.png" alt=""/>
+       <img className="object-fit_cover mx-auto rounded-circle" src="img/team/group_placeholder.png" alt=""/>
     </div>
-    </div>
+ </div>
+ <br/>
   <div className="row">
     <div className="col-lg-8 mx-auto text-center">
       <p className="large text-muted">Our team includes experienced and energetic people whose goal is to communicate with our patients to provide the best care possible.</p>
