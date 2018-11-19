@@ -82,8 +82,8 @@ const TeamPage=()=>
         </ul>
       </div>
     </div>
-  </div>
-  <div className="row">
+ </div>
+ <div className="row">
     <div className="col-lg-8 mx-auto text-center">
        <img className="object-fit_cover mx-auto rounded-circle" src="img/team/group_placeholder.png" alt=""/>
     </div>

@@ -24,7 +24,7 @@ const ServicesPage=()=>
         <i className="fas fa-smile fa-stack-1x fa-inverse"></i>
       </span>
       <h4 className="service-heading">Restorative/Cosmetic Dentistry</h4>
-      <p className="text-muted">Passionate about delivering the highest level of care to patients. We specializes in treatments such as digital reconstructions, aesthetic dentistry and Implant dentistry. Focusing on regeneration and restoring tooth structure that has been lost over time.</p>
+      <p className="text-muted">Proper dental care to patient. Passionate about delivering the highest level of care to patients. We specializes in treatments such as digital reconstructions, aesthetic dentistry and restorative implant dentistry. Focusing on regeneration and restoring tooth structure that has been lost over time.</p>
     </div>
     <div className="col-md-4">
       <span className="fa-stack fa-4x">
@@ -32,7 +32,7 @@ const ServicesPage=()=>
         <i className="fas fa-tooth fa-stack-1x fa-inverse"></i>
       </span>
       <h4 className="service-heading">Extraction</h4>
-      <p className="text-muted">Performed by a dentist and is a relatively quick outpatient procedure with either local, general, intravenous anesthesia, or a combination. Removing visible teeth is a simple extraction. </p>
+      <p className="text-muted">Performed by a dentist and is a relatively quick outpatient procedure and other dental surgical treatment under local anesthetic only.  </p>
     </div>
   </div>
 </div>

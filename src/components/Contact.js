@@ -20,8 +20,10 @@ const ContactPage = () =>
 <strong>Tuesday:&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}> 11am-7pm</span><br/>
 <strong>Wednesday:&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}> 11am-7pm</span><br/>
 <strong>Thursday:&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}> 11am-7pm</span><br/>
-<strong>Friday:&nbsp;&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}> 11am-7pm</span><br/>
+<strong>Friday:&nbsp;&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}> 11am-7pm </span><br/>
+<span style={{color:"white",fontSize:"1em"}}><em>Closed every other Friday</em></span><br/>
 <strong>Saturday:&nbsp;</strong><span style={{color:"white",fontSize:"1em"}}> 10am-4pm</span><br/>
+<span style={{color:"white",fontSize:"1em"}}><em>Closed every other Saturday</em></span><br/>
 <strong>Sunday:&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}><em>Closed</em></span></p>
     
     </div>
