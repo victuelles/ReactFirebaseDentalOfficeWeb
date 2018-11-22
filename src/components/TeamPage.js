@@ -10,82 +10,59 @@ const TeamPage=()=>
     </div>
   </div>
   <div className="row">
-    <div className="col-sm-4">
+    <div className="col-sm-6">
       <div className="team-member">
-        <img className="mx-auto rounded-circle" src="img/team/person_placeholder.jpg" alt=""/>
+        <img className="mx-auto rounded-circle" src="img/team/dentist_banatao.jpg" alt=""/>
         <h4>Sofronio T. Banatao, DDS</h4>
         <p className="text-muted">Dentist</p>
         <ul className="list-inline social-buttons">
           <li className="list-inline-item">
-            <a href="#">
+           
               <i className="fab fa-twitter"></i>
-            </a>
+           
           </li>
           <li className="list-inline-item">
-            <a href="#">
+          
               <i className="fab fa-facebook-f"></i>
-            </a>
+            
           </li>
           <li className="list-inline-item">
-            <a href="#">
+           
               <i className="fab fa-linkedin-in"></i>
-            </a>
+            
           </li>
         </ul>
       </div>
     </div>
-    <div className="col-sm-4">
+    <div className="col-sm-6">
       <div className="team-member">
-        <img className="mx-auto rounded-circle" src="img/team/person_placeholder.jpg" alt=""/>
+        <img className="mx-auto rounded-circle" src="img/team/dentist_velasco.jpg" alt=""/>
         <h4>Leovy Velasco, DDS</h4>
         <p className="text-muted">Dentist</p>
         <ul className="list-inline social-buttons">
           <li className="list-inline-item">
-            <a href="#">
+            
               <i className="fab fa-twitter"></i>
-            </a>
+            
           </li>
           <li className="list-inline-item">
-            <a href="#">
+           
               <i className="fab fa-facebook-f"></i>
-            </a>
+            
           </li>
           <li className="list-inline-item">
-            <a href="#">
+            
               <i className="fab fa-linkedin-in"></i>
-            </a>
+            
           </li>
         </ul>
       </div>
     </div>
-    <div className="col-sm-4">
-      <div className="team-member">
-        <img className="mx-auto rounded-circle" src="img/team/person_placeholder.jpg" alt=""/>
-        <h4>Arlene C. Fernandez</h4>
-        <p className="text-muted">Dental Hygienist</p>
-        <ul className="list-inline social-buttons">
-          <li className="list-inline-item">
-            <a href="#">
-              <i className="fab fa-twitter"></i>
-            </a>
-          </li>
-          <li className="list-inline-item">
-            <a href="#">
-              <i className="fab fa-facebook-f"></i>
-            </a>
-          </li>
-          <li className="list-inline-item">
-            <a href="#">
-              <i className="fab fa-linkedin-in"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
+   
  </div>
  <div className="row">
-    <div className="col-lg-8 mx-auto text-center">
-       <img className="object-fit_cover mx-auto rounded-circle" src="img/team/group_placeholder.png" alt=""/>
+    <div className="col-lg-8 mx-auto text-center staff_image">
+       <img className="object-fit_cover mx-auto img-responsive" src="img/team/group_staff.jpg" alt=""/>
     </div>
  </div>
  <br/>
