@@ -27,7 +27,7 @@ const ContactPage = () =>
 <strong>Sunday:&nbsp;</strong> <span style={{color:"white",fontSize:"1em"}}><em>Closed</em></span></p>
     
     </div>
-  <div className="col-lg-6">
+  <div className="col-lg-6" style={{overflow:"hidden"}}>
   < h3>Contact and Location:</h3><br/>
   <p><strong>Phone : </strong> <a href="tel:5107963411"  style={{color:"white",fontSize:"1em"}}>(510) 796-3411</a></p>
   <p><strong>Email :&nbsp;</strong><a href="mailto:inquire@rosemontfamilydental.com"  style={{color:"white",fontSize:"1em"}}>inquire@rosemontfamilydental.com</a></p>

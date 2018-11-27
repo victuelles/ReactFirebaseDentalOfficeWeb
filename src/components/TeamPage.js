@@ -61,8 +61,8 @@ const TeamPage=()=>
    
  </div>
  <div className="row">
-    <div className="col-lg-8 mx-auto text-center staff_image">
-       <img className="object-fit_cover mx-auto img-responsive" src="img/team/group_staff.jpg" alt=""/>
+    <div className="col-lg-6 mx-auto text-center staff_image">
+       <img className="object-fit_cover mx-auto img-fluid" src="img/team/group_staff.jpg" alt=""/>
     </div>
  </div>
  <br/>
